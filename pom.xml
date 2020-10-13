@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>iso2</groupId>
-  <artifactId>Monopoly2</artifactId>
+  <artifactId>Monopoly3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Monopoly2</name>
+  <name>Monopoly3</name>
   <url>http://maven.apache.org</url>
 <build>
     <plugins>
@@ -35,7 +35,7 @@
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
-      <sonar.projectKey>Monopoly</sonar.projectKey>   
+      <sonar.projectKey>Monopoly3</sonar.projectKey>   
       <sonar.organization>eiderrodriguez</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
       <sonar.login>0af1bc83d9d6a9602388f789fad22cbf8b2e7ab2</sonar.login> 
